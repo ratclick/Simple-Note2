@@ -1,0 +1,22 @@
+# Create a new React app using the follwing command in shell
+
+npm create vite@latest simple-note-user
+
+# Need to install the following packages:
+# create-vite@5.5.2
+# Ok to proceed? (y) y
+
+
+# > npx
+# > create-vite simple-note-user
+
+# √ Select a framework: » React
+# √ Select a variant: » JavaScript
+
+# Scaffolding project in E:\Lab\Simple-Note2\UI\simple-note-user...
+# 
+# Done. Now run:
+
+#   cd simple-note-user
+#   npm install
+#   npm run dev
